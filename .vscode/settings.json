@@ -1,0 +1,8 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.visible": false,
+    "workbench.editor.showTabs": true,
+    "workbench.statusBar.visible": true,
+    "workbench.iconTheme": "field-lights-monochrome",
+    "editor.snippetSuggestions": "top"
+}
